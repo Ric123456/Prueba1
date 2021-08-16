@@ -4,4 +4,4 @@ Es un repositorio de prueba
 
 ## Autor
 
-* Richar Mamani Laura
+* Richar Mamani Laura   
